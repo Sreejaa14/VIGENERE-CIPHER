@@ -92,6 +92,9 @@ int main() {
 
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f22dc2e-df5d-4411-90f2-ac748b9c880e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2aae8ec7-93fd-4276-9220-fca32d278f20" />
+
 
 ## RESULT
+Thus the implementation of vigenere cipher had been executed successfully
